@@ -1,0 +1,14 @@
+D:\git\Basics\FirstSteps\obj\Debug\netcoreapp3.1\FirstSteps.csproj.AssemblyReference.cache
+D:\git\Basics\FirstSteps\obj\Debug\netcoreapp3.1\FirstSteps.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Basics\FirstSteps\obj\Debug\netcoreapp3.1\FirstSteps.AssemblyInfoInputs.cache
+D:\git\Basics\FirstSteps\obj\Debug\netcoreapp3.1\FirstSteps.AssemblyInfo.cs
+D:\git\Basics\FirstSteps\obj\Debug\netcoreapp3.1\FirstSteps.csproj.CoreCompileInputs.cache
+D:\git\Basics\FirstSteps\bin\Debug\netcoreapp3.1\FirstSteps.exe
+D:\git\Basics\FirstSteps\bin\Debug\netcoreapp3.1\FirstSteps.deps.json
+D:\git\Basics\FirstSteps\bin\Debug\netcoreapp3.1\FirstSteps.runtimeconfig.json
+D:\git\Basics\FirstSteps\bin\Debug\netcoreapp3.1\FirstSteps.runtimeconfig.dev.json
+D:\git\Basics\FirstSteps\bin\Debug\netcoreapp3.1\FirstSteps.dll
+D:\git\Basics\FirstSteps\bin\Debug\netcoreapp3.1\FirstSteps.pdb
+D:\git\Basics\FirstSteps\obj\Debug\netcoreapp3.1\FirstSteps.dll
+D:\git\Basics\FirstSteps\obj\Debug\netcoreapp3.1\FirstSteps.pdb
+D:\git\Basics\FirstSteps\obj\Debug\netcoreapp3.1\FirstSteps.genruntimeconfig.cache
